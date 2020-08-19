@@ -19,7 +19,7 @@ else
 
 document.write("<br>");
 
-document.write("-------------------------")
+document.write("----------------------------")
 document.write("<br>");
 switch(b+a)
 {
